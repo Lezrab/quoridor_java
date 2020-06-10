@@ -8,3 +8,5 @@ Comment lancer le jeu ?
   - Lancer Quoridor.jar avec la commande "java -jar Quoridor.jar" du dossier ws (veillez à ne pas le changer d'endroit).
 
 -----------------------------------------------------------------------------------------------------
+
+TEST DE COMMIT GITLAB :: : :: 
